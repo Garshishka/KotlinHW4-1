@@ -35,7 +35,7 @@ class MainTest {
 
         val result = calculateComision(payType,previousPay,trasferPay)
 
-        assertEquals(25_00,result)
+        assertEquals(35_00,result)
     }
 
     @Test
@@ -46,7 +46,7 @@ class MainTest {
 
         val result = calculateComision(payType,previousPay,trasferPay)
 
-        assertEquals(250_00,result)
+        assertEquals(350_00,result)
     }
 
     @Test

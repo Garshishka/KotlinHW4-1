@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c8066f-3baa-4d3d-a1c2-0e2da9475e4c" name="Changes" comment="Fisrt commit + tests">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/MainTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/MainTest.kt" afterDir="false" />
-    </list>
+    <list default="true" id="19c8066f-3baa-4d3d-a1c2-0e2da9475e4c" name="Changes" comment="Broken tests to check workflow" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +70,7 @@
       <command value="gradle test jacocoTestReport" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.KotlinHW4-1 [test]">
+  <component name="RunManager" selected="Gradle.KotlinHW4-1 [test jacocoTestReport]">
     <configuration name="KotlinHW4-1 [test jacocoTestReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -213,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657637935692</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Broken tests to check workflow">
+      <created>1657706504313</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657706504313</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +232,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fisrt commit + tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fisrt commit + tests" />
+    <MESSAGE value="Broken tests to check workflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Broken tests to check workflow" />
   </component>
 </project>
